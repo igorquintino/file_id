@@ -1,0 +1,12 @@
+{
+  "name": "pegar-file-id-bot",
+  "version": "1.0.0",
+  "main": "pegar_file_id.js",
+  "scripts": {
+    "start": "node pegar_file_id.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
